@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "943966691829",
+    "project_id": "nombredeproyecto-d9136",
+    "storage_bucket": "nombredeproyecto-d9136.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943966691829:android:15d3a93186fa5c726b40bc",
+        "android_client_info": {
+          "package_name": "com.mycompany.tiendita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943966691829-jvpoug26rc7r0knotldgo1afsipqn7ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4zRR2s1PGoAdy46TSznFhydW6FB_jJgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943966691829-jvpoug26rc7r0knotldgo1afsipqn7ng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943966691829-ftv4bpv800jcuq83kt5fd8o1gifcs4jl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.tiendita"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
